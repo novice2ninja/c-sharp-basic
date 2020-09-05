@@ -1,0 +1,10 @@
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\bin\Debug\BasicFrom1.exe.config
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\bin\Debug\BasicFrom1.exe
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\bin\Debug\BasicFrom1.pdb
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.csprojAssemblyReference.cache
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.Form1.resources
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.Properties.Resources.resources
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.csproj.GenerateResource.cache
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.csproj.CoreCompileInputs.cache
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.exe
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.pdb
