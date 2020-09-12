@@ -39,7 +39,8 @@ namespace BasicFrom1
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            lblMessage.Text = "Logout Button Clicked";
+            this.Hide();
+            new LoginForm().Show();
         }
     }
 }

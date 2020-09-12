@@ -8,3 +8,4 @@ D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1
 D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.csproj.CoreCompileInputs.cache
 D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.exe
 D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.pdb
+D:\Programming World\C#\c-sharp-basic\BasicFrom1\BasicFrom1\obj\Debug\BasicFrom1.LoginForm.resources
