@@ -15,8 +15,8 @@ namespace Md5
             string compare2 = new Program().getMd5Hash("Dhiman");
             Console.WriteLine(string.Compare(compare1, compare2));
 
-            PasswordValidation passwordValidation = new PasswordValidation();
-            Console.WriteLine(passwordValidation.isValidPasswordPattern("Admin"));
+            PasswordValidationPolicy passwordValidation = new PasswordValidationPolicy();
+            Console.WriteLine(passwordValidation.isValid("Admin"));
          
         }
 

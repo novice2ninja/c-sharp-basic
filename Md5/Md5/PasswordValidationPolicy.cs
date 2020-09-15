@@ -5,9 +5,9 @@ using System.Text.RegularExpressions;
 
 namespace Md5
 {
-    class PasswordValidation
+    class PasswordValidationPolicy
     {
-        public Boolean isValidPasswordPattern(string password) { 
+        public Boolean isValid(string password) { 
         
             string regEx = @"^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!%*#?&]{8,}$";
             return Regex.IsMatch(password, regEx);
